@@ -30,14 +30,14 @@ public class EcollegeRest{
 	@Autowired
 	private StudentService service;
 	
-	@Autowired
-	private StudentsRepository studentRepo;
-	
-	@Autowired
-	private CourseRepository courseRepo;
-	
-	@Autowired
-	private SubjectsRepository subjectRepo;
+//	@Autowired
+//	private StudentsRepository studentRepo;
+//	
+//	@Autowired
+//	private CourseRepository courseRepo;
+//	
+//	@Autowired
+//	private SubjectsRepository subjectRepo;
 	
 	Logger log = LoggerFactory.getLogger(EcollegeRest.class);
 
